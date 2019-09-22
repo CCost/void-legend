@@ -2,9 +2,9 @@
   "name": "Void Legend",
   "description": "idk",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
